@@ -1,0 +1,440 @@
+#  pod 'Reachability'
+  
+# https://github.com/youknowone/FoundationExtension
+  pod 'FoundationExtension' #, '~> 1.3.1'
+  pod 'UIKitExtension'
+  pod 'CocoaExtension'
+  
+# https://github.com/google/google-toolbox-for-mac.git
+# Google Toolbox for Mac
+  pod 'GoogleToolboxForMac'
+
+# https://github.com/devxoul/SwipeBack.git
+# Enable iOS 7+ swipe-to-back when custom back button is set.
+  pod 'SwipeBack'
+  
+# https://github.com/arashpayan/appirater.git
+# A utility that reminds your iPhone app's users to review the app.
+  pod 'Appirater'
+  
+# https://github.com/facebook/pop.git
+  pod 'pop'
+  
+# https://github.com/ibireme/YYKit.git
+# A collection of iOS components.
+  pod 'YYKit'
+
+# https://github.com/CocoaLumberjack/CocoaLumberjack.git
+# A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+  pod 'CocoaLumberjack'
+
+# https://github.com/agens-no/Anymotion.git
+# one unified API for animating UIKit, CoreAnimation, POP and your library of choice.
+  pod 'Anymotion'
+  
+# https://github.com/agens-no/AGGeometryKit.git
+# Quadrilaterals on CALayer, CGGeometry-functions, UIView/CALayer properties and other invaluable tools.
+  pod 'AGGeometryKit'
+
+# https://github.com/agens-no/AGGeometryKit-POP.git
+# Bridging AGGeometryKit with POP for amazing dynamics and animations.
+  pod 'AGGeometryKit+POP'
+  
+# https://github.com/soffes/samkeychain
+# Simple Objective-C wrapper for the keychain that works on Mac and iOS
+  pod 'SAMKeychain'
+  
+  pod 'AFNetworking'
+  pod 'AFNetworkActivityLogger',    '~> 2.0.4',             :configurations => ['Debug']
+  pod 'AFDownloadRequestOperation', '~> 2.0.1'
+  
+# https://github.com/AFNetworking/AFOAuth2Manager
+# AFNetworking Extension for OAuth 2 Authentication  
+  pod 'AFOAuth2Manager'
+
+# https://github.com/ideaismobile/AFXMLDictionarySerializer
+# Support for converting XML to NSDictionary in AFNetworking 2.0
+  pod 'AFXMLDictionarySerializer'
+
+# https://github.com/AFNetworking/AFOnoResponseSerializer.git
+# An XML and HTML response serializer for AFNetworking 2.0, using Ono
+	pod 'AFOnoResponseSerializer'
+
+# https://github.com/robbiehanson/KissXML.git
+# A replacement for Cocoa's NSXML cluster of classes. Based on libxml. Works on iOS.
+  pod 'KissXML'
+  
+# https://github.com/ViccAlexander/Chameleon.git
+# Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).  
+  pod 'ChameleonFramework'
+  
+  pod 'RegexKitLite'
+  
+# https://github.com/Mantle/Mantle
+# Model framework for Cocoa and Cocoa Touch  
+  pod 'Mantle'
+  pod 'Masonry'
+  
+  pod 'MJRefresh'
+  
+  pod 'HMSegmentedControl'
+  
+# https://github.com/Jiar/SegementSlide.git
+# Multi-tier UIScrollView nested scrolling solution. 😋😋😋
+  pod 'SegementSlide'
+  
+# https://github.com/jalyResource/GrowTextView.git
+# 一个比较完美的高度自适应输入框。
+  pod 'GrowTextView'
+  
+# https://github.com/pujiaxin33/JXCategoryView.git
+# A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol)
+# (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)
+  pod 'JXCategoryView'
+  
+# https://github.com/matej/MBProgressHUD.git
+# MBProgressHUD, an iOS activity indicator view http://www.bukovinski.com
+  pod 'MBProgressHUD' #, '~> 0.9.2'
+  pod 'MBProgressHUD+BWMExtension'
+  
+# https://github.com/cwRichardKim/RKNotificationHub.git
+# Make any UIView a full fledged notification center
+  pod 'RKNotificationHub'
+  
+# https://github.com/adad184/MMPopupView.git
+# Pop-up based view(e.g. alert sheet), can easily customize.
+  pod 'MMPopupView'
+  
+# https://github.com/HeathWang/HWPanModal.git
+# HWPanModal presents controller from bottom and drag to dismiss, high customize. 实现任意形式的底部弹框；知乎、抖音弹出评论效果。
+  pod 'HWPanModal'
+  
+# https://github.com/ninjaprox/NVActivityIndicatorView.git
+# A collection of awesome loading animations
+# Swift
+#  pod 'NVActivityIndicatorView'
+
+# https://github.com/gontovnik/DGActivityIndicatorView.git
+# DGActivityIndicatorView is a great way to make loading spinners in your application look nicer. It contains 6 different indicator view styles.
+# Objective-C
+  pod 'DGActivityIndicatorView'
+
+# https://github.com/icodesign/ICDMaterialActivityIndicatorView.git
+# Google Material Design Styled Circular Activity Indicator (Progress) View for iOS
+  pod 'ICDMaterialActivityIndicatorView'
+  
+# https://github.com/Cuberto/liquid-swipe.git
+# Cuberto is a leading digital agency with solid design and development expertise. We build mobile and web products for startups. Drop us a line.
+  pod 'liquid-swipe', '~> 0.7.0-static'
+
+# https://github.com/Cuberto/gooey-cell.git
+# Cuberto is a leading digital agency with solid design and development expertise. We build mobile and web products for startups. Drop us a line.
+  pod 'gooey-cell'
+
+# https://github.com/Cuberto/smooth-scroll
+# https://github.com/Cuberto/3d-tap
+
+# https://github.com/Cuberto/flashy-tabbar.git
+# One another nice animated tabbar
+  pod 'CBFlashyTabBarController'
+
+# https://github.com/ChenYilong/CYLTabBarController.git
+# [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.
+# [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。【iOS13 & Dark Mode & iPhone XS MAX supported】
+  pod 'CYLTabBarController'
+
+# https://github.com/yuwind/HHTransition.git
+# 主流转场动画，无侵入，API简单易用。
+  pod 'HHTransition'
+  
+  pod 'UIView+AnimationExtensions'
+  
+# https://github.com/chuganzy/HCImage-BPG.git
+# BPG decoder for iOS and OS X written in Obj-C++.
+#  pod 'HCImage+BPG'
+
+  pod 'MCFireworksButton'
+  
+# https://github.com/liyong03/YLGIFImage.git
+# Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
+#  pod 'YLGIFImage'
+
+# https://github.com/nicklockwood/iCarousel.git
+# A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
+  pod 'iCarousel'
+  
+# https://github.com/pikacode/EBBannerView.git
+  pod 'EBBannerView'
+  
+# https://github.com/KittenYang/KYBezierBounceView.git
+# 实现手势控制贝塞尔曲线的左右菜单并带有重力反弹效果
+  pod 'KYBezierBounceView'
+  
+# https://github.com/jivesoftware/PDTSimpleCalendar.git
+# A simple Calendar / Date Picker for iOS using UICollectionView
+  pod 'PDTSimpleCalendar'
+  
+# https://github.com/saturngod/IAPHelper.git
+# No more maintenance for this repo. Please use the https://github.com/bizz84/SwiftyStoreKit
+  pod 'IAPHelper'
+  
+# https://github.com/contentful-labs/Concorde.git
+# Download and decode progressive JPEGs on iOS.
+#  pod 'Concorde'
+
+# https://github.com/SDWebImage/SDWebImageBPGCoder.git
+# A BPG coder plugin for SDWebImage, use libbpg
+#  pod 'SDWebImageBPGCoder'
+#  pod 'SDWebImageBPGCoder/libbpg'
+#  pod 'SDWebImageBPGCoder/bpgenc'
+
+# https://github.com/layerhq/Atlas-iOS.git
+# Chat and Messaging UI components for iOS, built to work with Layer https://layer.com
+#  pod 'Atlas'
+
+# https://github.com/alexaubry/BulletinBoard.git
+#  pod 'BulletinBoard', '~> 2.0.0'
+  
+#  pod 'UIImageViewModeScaleAspect', '~> 1.5'
+#  pod 'BSImagePicker', '~> 0.7'
+#  pod 'BSImagePicker'
+
+# https://github.com/SilenceLove/HXPhotoPicker.git
+# 照片/图片选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、浏览网络图片
+# 功能 Imitation weibo photo/image picker - support for LivePhoto, GIF image selection, 3DTouch preview,
+# Download the resources on iCloud online, browse the web image function
+#  pod 'HXPhotoPicker'
+
+# https://github.com/lincf0912/LFMediaEditingController.git
+# Media Editor (图片编辑、视频编辑)
+  pod 'LFMediaEditingController'
+
+  pod 'ALAssetsLibrary-CustomPhotoAlbum'
+  
+  pod 'UIAlertView+Block'
+  pod 'UIActionSheet+Blocks'
+  
+# https://github.com/12207480/TYAlertController.git
+# Powerful, Easy to use alert view or popup view on controller and window, support blur effects,custom view and animation,for objective-c,support iphone, ipad
+  pod 'TYAlertController'
+  
+# https://github.com/kishikawakatsumi/UICKeyChainStore.git
+# UICKeyChainStore is a simple wrapper for Keychain on iOS, watchOS, tvOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults. http://kishikawakatsumi.com
+  pod 'UICKeyChainStore'
+  
+# https://github.com/Boris-Em/BEMCheckBox
+# Tasteful Checkbox for iOS. (Check box)  
+  pod 'BEMCheckBox'
+  
+# https://github.com/CRAnimation/CRBoxInputView.git
+  pod 'CRBoxInputView'
+  
+# https://github.com/fpt-software/Material-Controls-For-iOS
+#  pod 'MaterialControls'
+
+# https://github.com/material-components/material-components-ios.git
+# Modular and customizable Material Design UI components for iOS
+  pod 'MaterialComponents'
+  
+# https://github.com/RyanLeeLY/DoubleNavigationController.git
+#  pod 'DoubleNavigationController'
+
+# https://github.com/Flipboard/FLAnimatedImage.git
+# Performant animated GIF engine for iOS
+  pod 'FLAnimatedImage'
+  
+# https://chromium.googlesource.com/webm/libwebp
+  pod 'libwebp'
+#  pod 'libbpg'
+
+# https://github.com/zhengwenming/WMPlayer.git
+# WMPlayer+WNPlayer万能播放器，内部封装了AVPlayer和FFmpeg最新版本(4.0.2)，
+# 两款播放器完全解耦设计，没有使用FFmpeg的废弃api，支持几乎所有视频格式(avi、flv、m3u8、3gp、RTMP、RTSP、MKV、rmvb、wmv、mp4、mov)，
+# 网络和本地视频同时支持
+  pod 'WMPlayer'
+
+# https://github.com/sunnyxx/XXNibBridge
+# Bridge xib file into another xib or storyboard
+  pod 'XXNibBridge'
+
+# https://github.com/MatthewYork/DateTools.git
+# Dates and times made easy in iOS
+  pod 'DateTools'
+  
+# https://github.com/airbnb/lottie-ios.git
+# An iOS library to natively render After Effects vector animations
+#  pod 'lottie-ios'
+
+# https://github.com/hohl/MIHCrypto.git
+# OpenSSL wrapper for Objective-C [cryptography]
+  pod 'MIHCrypto'
+
+#  pod 'BrainCloudCurl'
+#  pod 'BrainCloudOpenSSL'
+  
+#  pod 'ImageMagick', '~> 6.8.8-9'
+
+#  pod 'GPUImage'
+
+# https://github.com/Boris-Em/BEMSimpleLineGraph
+  pod 'BEMSimpleLineGraph'
+  
+# https://github.com/MoZhouqi/KMNavigationBarTransition.git
+# A drop-in universal library helps you to manage the navigation bar styles
+# and makes transition animations smooth between different navigation bar styles
+# while pushing or popping a view controller for all orientations.
+# And you don't need to write any line of code for it, it all happens automatically.
+# 一个用来统一管理导航栏转场以及当 push 或者 pop 的时候使动画效果更加顺滑的通用库，并且同时支持竖屏和横屏。你不用为这个库写一行代码，所有的改变都悄然发生。
+#  pod 'KMNavigationBarTransition'
+
+# https://github.com/wangrui460/WRNavigationBar.git
+# 超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 WRNavigationBar which allows you to change NavigationBar's appearance dynamically
+#  pod 'WRNavigationBar'
+
+# https://github.com/steipete/Aspects.git
+# Delightful, simple library for aspect oriented programming in Objective-C and Swift.
+  pod 'Aspects'
+
+# https://github.com/wordpress-mobile/WordPress-Editor-iOS.git
+#  pod 'WordPress-iOS-Editor'
+  
+# https://github.com/mattt/Surge.git
+#  pod 'Surge'
+
+# https://github.com/BlinkID/blinkid-ios
+# SDK for scanning and OCR of various identity documents. Contains native iOS SDK, code samples and documentation.
+#  pod 'PPBlinkID'
+
+# https://github.com/CoderZhuXH/XHLaunchAd.git
+# The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.
+  pod 'XHLaunchAd'
+
+# https://github.com/mamaral/Onboard.git
+# An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+  pod 'Onboard'
+
+# https://github.com/dzenbot/DZNEmptyDataSet.git
+# A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
+#  pod 'DZNEmptyDataSet'
+
+# https://github.com/facebookincubator/spectrum.git
+# A client-side image transcoding library.
+  pod 'SpectrumKit'
+  
+# https://github.com/ko1o/PYSearch.git
+# An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad) .
+  pod 'PYSearch'
+  
+# https://github.com/draveness/DKNightVersion.git
+# Manage Colors, Integrate Night/Multiple Themes
+  pod 'DKNightVersion'
+  
+# https://github.com/KrauseFx/TSMessages.git
+# 💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot http://krausefx.com
+  pod 'TSMessages'
+  
+# https://github.com/Instagram/IGListKit.git
+# A data-driven UICollectionView framework for building fast and flexible lists
+  pod 'IGListKit'
+  
+# https://github.com/miniLV/MNFloatBtn
+# 添加一个全局悬浮标签
+  pod 'MNFloatBtn'
+  
+# https://github.com/LaiFengiOS/LFLiveKit.git
+# IOS Live Kit,H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate
+#  pod 'LFLiveKit'
+
+# https://github.com/noodlewerk/NWPusher
+# OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+#  pod 'NWPusher'
+
+# https://github.com/robbiehanson/CocoaAsyncSocket.git
+# Asynchronous socket networking library for Mac and iOS
+  pod 'CocoaAsyncSocket'
+
+# https://github.com/tracy-e/OCGumbo.git
+# An Objective-C HTML5 parser based on Google Gumbo.
+#  pod 'GSOCGumbo'
+
+# https://github.com/openid/AppAuth-iOS.git
+# iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
+  pod 'AppAuth'
+
+# https://github.com/swisspol/GCDWebServer
+# The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server)
+  pod 'GCDWebServer'
+  pod 'GCDWebServer/WebUploader'
+  pod 'GCDWebServer/WebDAV'
+  
+# https://github.com/youtube/youtube-ios-player-helper
+# Helper library for iOS developers looking to add YouTube video playback in their applications via the iframe player in a UIWebView
+  pod 'youtube-ios-player-helper'
+  
+# https://github.com/rickytan/RTRootNavigationController.git
+# Implicitly make every view controller has its own navigation bar
+  pod 'RTRootNavigationController'
+  
+# https://github.com/button/DeepLinkKit.git
+# A splendid route-matching, block-based way to handle your deep links. http://usebutton.com
+  pod 'DeepLinkKit'
+ 
+# https://github.com/pluralsight/PSOperations.git
+# A framework for advanced NSOperations usage
+  pod 'PSOperations'
+  
+# https://github.com/tristanhimmelman/ObjectMapper.git
+# Simple JSON Object mapping written in Swift
+  pod 'ObjectMapper'
+  
+# https://github.com/Alamofire/Alamofire.git
+# Elegant HTTP Networking in Swift
+  pod 'Alamofire'
+
+# https://github.com/icodesign/SwiftColor.git
+# A Swift Extension for UIColor.
+  pod 'SwiftColor'
+  
+# https://github.com/duemunk/Async.git
+# Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch
+  pod 'AsyncSwift'
+#  pod 'CocoaLumberjack/Swift'
+
+# https://github.com/xmartlabs/Eureka.git
+# Elegant iOS form builder in Swift 
+  pod 'Eureka'
+  
+# https://github.com/mutualmobile/MMWormhole.git
+# Message passing between iOS apps and extensions.
+  pod 'MMWormhole'
+  
+# https://github.com/onevcat/Kingfisher.git
+# A lightweight, pure-Swift library for downloading and caching images from the web.
+  pod 'Kingfisher'
+  
+# https://github.com/kishikawakatsumi/KeychainAccess.git
+# Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
+  pod 'KeychainAccess'
+  
+# https://github.com/robb/Cartography.git
+# A declarative Auto Layout DSL for Swift 📱📐
+  pod 'Cartography'
+  
+  # https://github.com/icodesign/ICSPullToRefresh.Swift.git
+  # Pure Swift PullToRefresh, providing PullToRefresh && InfiniteScrolling features for UIScrollView
+  pod 'ICSPullToRefresh'
+  
+  # https://github.com/boredzo/iso-8601-date-formatter.git
+  # A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings.
+  # Supports calendar, week, and ordinal formats. http://boredzo.org/iso8601dateformatter/
+  pod 'ISO8601DateFormatter'
+  
+# https://github.com/phimage/CallbackURLKit.git
+# Implementation of x-callback-url (Inter app communication) in swift
+  pod 'CallbackURLKit'
+  
+# https://github.com/Zepo/MLeaksFinder.git  
+# Find memory leaks in your iOS app at develop time.
+  pod 'MLeaksFinder',                                       :configurations => ['Debug']
+  
+  
