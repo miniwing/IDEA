@@ -437,4 +437,6 @@
 # Find memory leaks in your iOS app at develop time.
   pod 'MLeaksFinder',                                       :configurations => ['Debug']
   
-  
+# [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
+https://github.com/lexrus/LTMorphingLabel
+
